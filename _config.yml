@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Azka N.A.
-email: azkanuraf@gmail.com
+title: top-chaisaen
+email: top@chaisaen.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Azka Nur Afifah Portfolio Site. My name is Azka Nur Afifah, a Master of Engineering graduate. I have been working in the research and development field and I’m currently looking for an opportunity to work in the Data Science field.
+  Top.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  azukacchi
+github_username:  top-chaisaen
 
 # Build settings
 # theme: "just-the-docs"
