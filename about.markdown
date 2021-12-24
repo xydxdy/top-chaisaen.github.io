@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Hi, I'm Azka!
+# Hi,
 
-![](top-chaisaen.github.io/portfolio/assets/git-logo.png/circle.png)
+![](../portfolio/assets/git-logo.png/circle.png)
 
 ## About Me
 
