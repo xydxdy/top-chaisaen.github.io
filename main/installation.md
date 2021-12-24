@@ -23,3 +23,24 @@ model.fit(X_train, y_train, X_val, y_val)
 Y, evaluation = model.predict(X_test, y_test)
 ```
 
+{% capture some_var %}
+{% highlight py linenos %}
+model = EEGNet(input_shape=(1, 20, 400), num_class=2, dropout_rate=0.25, class_balancing=True)
+model.fit(X_train, y_train, X_val, y_val)
+
+Y, evaluation = model.predict(X_test, y_test)
+{% endhighlight %}
+{% endcapture %}
+{% include fix_linenos.html code=some_var %}
+
+{% capture some_var %}
+```py
+model = EEGNet(input_shape=(1, 20, 400), num_class=2, dropout_rate=0.25, class_balancing=True)
+model.fit(X_train, y_train, X_val, y_val)
+
+Y, evaluation = model.predict(X_test, y_test)
+```
+{% endcapture %}
+{% assign some_var = some_var | markdownify %}
+{% include fix_linenos.html code=some_var %}
+
