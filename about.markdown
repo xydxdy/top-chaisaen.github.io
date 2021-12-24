@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hi,
 
-![](../portfolio/assets/git-logo.png/circle.png)
+![](assets/git-logo.png/circle.png)
 
 ## About Me
 
