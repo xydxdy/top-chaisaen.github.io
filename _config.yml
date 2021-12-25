@@ -38,7 +38,7 @@ plugins:
 markdown: kramdown
 
 color_scheme: light
-logo: "/assets/images/git-logo.png"
+logo: "/assets/images/min2net-logo.png"
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
